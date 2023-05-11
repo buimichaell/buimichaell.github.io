@@ -6,7 +6,7 @@ This my home page! My name is Michael Bui and I am a student at [Cal State Fulle
 
 My Github page is http://github.com/buimichaell
 
-## CPSC 120
+### CPSC 120
 
 * Lab 2 
 
