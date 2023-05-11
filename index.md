@@ -1,6 +1,6 @@
 # Hello World
 
-This my home page! My name is Michael Bui and I am a student at Cal State Fullerton and my major is Computer Science.
+This my home page! My name is Michael Bui and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science.
 
 ## Computer Science Projects
 
